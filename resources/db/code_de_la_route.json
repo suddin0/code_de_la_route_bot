@@ -1,0 +1,34 @@
+[
+    {
+        "platforme" : "envoituresimone.com",
+        "theme" : "unknown",
+        "series" : 1,
+        "question_number" : 1,
+        "question" : "",
+        "contain_media" : true,
+        "media_type" : "IMAGE",
+        "options" : [""],
+        "answere" : [""],
+        "multiple_answeres" : false,
+        "explanation" : ""
+    },
+    {
+        "platforme" : "envoituresimone.com",
+        "theme" : "unknown",
+        "series" : 1,
+        "question_number" : 1,
+        "question" : "Je m'arrête",
+        "contain_media" : true,
+        "media_type" : "IMAGE",
+        "options" : ["Oui", "Non"],
+        "answere" : ["Oui"],
+        "multiple_answeres" : false,
+        "explanation" : "
+        Ce piéton a manifestement pris des risques en traversant ici. Il y avait certainement un meilleur endroit pour le faire.
+
+Mais la situation est telle qu'elle est ! Mieux vaut freiner immédiatement (sans excès, puisque je suis suivi !). En effet, je ne connais pas ses intentions. Va-t-il attendre ? Ou au contraire se précipiter ?
+
+En m'arrêtant, il pourra traverser et la situation sera plus claire pour tout le monde."
+    },
+        
+]

@@ -1,0 +1,1127 @@
+[
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 1,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.1.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/002/medium/00001qA.jpg?1578570809",
+        "question": "Je m'arrête",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Ce piéton a manifestement pris des risques en traversant ici. Il y avait certainement un meilleur endroit pour le faire",
+        "explanation": "Mais la situation est telle qu'elle est ! Mieux vaut freiner immédiatement (sans excès, puisque je suis suivi !). En effet, je ne connais pas ses intentions. Va-t-il attendre ? Ou au contraire se précipiter ?\n\nEn m'arrêtant, il pourra traverser et la situation sera plus claire pour tout le monde."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 2,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.2.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/005/medium/00002qA.jpg?1534253682",
+        "question": "Pour rechercher un contact dans mon téléphone, je quitte généralement la route des yeux pendant",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "moins d'une seconde"
+            },
+            {
+                "isAnswere": false,
+                "value": "environ une seconde"
+            },
+            {
+                "isAnswere": true,
+                "value": "plusieurs secondes"
+            }
+        ],
+        "answere": "Rappelons-le, tenir un téléphone en conduisant est interdit. Que je sois en train de passer un appel ou non.",
+        "explanation": "Certaines personnes pensent que le simple fait de chercher un contact dans son téléphone n'est pas un problème... ou pas interdit. Bien sûr que si !\n\nEt pour cause : il faut généralement plusieurs secondes pour trouver son correspondant. Même si on procède par coups d'oeil successifs, le temps passé se cumule... et atteint là encore plusieurs secondes.\n\nEt pendant ce temps, qui surveille la route ? Essayeriez-vous de conduire plusieurs secondes les yeux fermés ?... Pourtant, cela reviendrait au même."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 3,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.3.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/008/medium/00003qA.jpg?1534253699",
+        "question": "Un abaissement ponctuel de la limitation de vitesse correspond toujours à un danger perceptible",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Pourquoi irait-on mettre un panneau de limitation de vitesse alors qu'il n'y a aucun danger particulier ?",
+        "explanation": "Bien entendu, il y a toujours une bonne raison. Le problème, c'est que le danger n'est pas toujours perceptible, et ça ne fait qu'augmenter le risque.\n\nIl y a de nombreuses raisons possibles mais pas forcément évidentes. Une intersection difficile à traverser si les autres usagers arrivent trop vite, et qui risquent d'être surpris, un virage en dévers où le risque de perte de contrôle est important...\n\nSi ce panneau a été mis en place, c'est qu'il y a eu des accidents. Souvent, il s'agissait de conducteurs qui n'avaient pas perçu le danger.\n\nUn panneau de limitation de vitesse n'est pas un panneau de danger... (il n'est pas de forme triangulaire) mais s'il est là, c'est que l'endroit est dangereux !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 4,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.4.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/011/medium/00004qA.jpg?1534253718",
+        "question": "Lors d'un contrôle routier, le refus d'obtempérer avec mise en danger de la vie d'autrui est passible de",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "5 ans de prison"
+            },
+            {
+                "isAnswere": true,
+                "value": "75 000 euros d'amende"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Le refus d'obtempérer, c'est le fait de ne pas obéir à un agent qui vous ordonne une action. S'arrêter par exemple.",
+        "explanation": "Si je commets un tel délit, et qu'en plus je mets en danger une vie, les sanctions sont très-très lourdes. Jusqu'à 5 ans de prison, et 75 000 € d'amende ! Et ces peines doublent en cas de récidive.\n\nAccessoirement, je risque aussi une suspension du permis, la confiscation du véhicule. La liste des peines complémentaires que j'encours est encore longue."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 5,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "1.5.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/013/large-mp4/00005qA.mp4?1534253731",
+        "question": "Afin de mieux voir, j'allume les feux de route",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Il n'y a personne devant moi. Personne qui arrive en face. Aucun piéton visible sur l'accotement... ",
+        "explanation": "Je pourrais donc penser que l'utilisation des feux de route, les feux les plus puissants qui équipent ma voiture, est possible.\n\nMais la route est bien éclairée et cet élément est déterminant. L'utilisation des feux de route est interdite dans ce cas.\n\nD'ailleurs, ils ne serviraient à rien, étant donné que je vois déjà très loin.\n\nDe même, l'utilisation des feux de position seuls n'est pas autorisée non plus. Ces feux, peu puissants, ne rendraient pas ma voiture suffisamment visible des autres usagers.\n\nHors agglomération, lorsque la chaussée est bien éclairée, je dois circuler en feux de croisement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 6,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.6.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/018/medium/00006qA.jpg?1534253840",
+        "question": "La différence d'usure entre 2 pneus montés sur un même essieu ne doit pas excéder",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "1 mm"
+            },
+            {
+                "isAnswere": false,
+                "value": "1.6 mm"
+            },
+            {
+                "isAnswere": true,
+                "value": "5 mm"
+            },
+            {
+                "isAnswere": false,
+                "value": "10 mm"
+            }
+        ],
+        "answere": "2 pneus d'un même essieu (les 2 pneus avant par exemple, ou les 2 pneus arrière) doivent avoir les mêmes caractéristiques : même marque, même modèle, mêmes dimensions...mais aussi une usure assez proche.",
+        "explanation": "Ainsi, pour des raisons de sécurité, 2 pneus d'un même essieu doivent avoir une différence d'usure de 5 mm maximum. (sauf utilisation de la roue de secours).\n\nA ne pas oublier en cas de remplacement d'un seul pneu, suite à un éclatement par exemple."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 7,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.7.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/021/medium/00007qA.jpg?1534253854",
+        "question": "Régler le GPS en roulant augmente le risque d'accident",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Le GPS peut être une aide précieuse pour le conducteur. Il évite de se tromper de route, tout en proposant des trajets optimisés et des informations routières.",
+        "explanation": "Cependant, c'est à l'arrêt que je dois le programmer. Sinon, je vais devoir quitter la route plusieurs secondes, ce qui augmente le risque d'avoir un accident de façon considérable."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 8,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.8.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/024/medium/00008qA.jpg?1534253866",
+        "question": "Certaines voitures sont équipées d'un mode ECO",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "permettant d'économiser environ 10% de carburant"
+            },
+            {
+                "isAnswere": false,
+                "value": "Ce dispositif coupe le moteur lors d'un arrêt en circulation"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Effectivement, certaines voitures comportent un programme qui gère le moteur différemment (et parfois la boîte de vitesse, lorsque celle-ci est automatique) afin d'économiser du carburant.",
+        "explanation": "Il permet de réduire la consommation jusqu'à 10%.\n\nOn peut le trouver avec l'appellation \"ECO\" ou sous une autre forme. En revanche, il ne faut pas confondre cette fonction avec le \"STOP & START\" qui coupe le moteur automatiquement à l'arrêt (et le rallume lorsqu'on engage une vitesse)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 9,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.9.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/027/medium/00009qA.jpg?1534253882",
+        "question": "Dans certains départements, si la circulation est fortement ralentie, les motocyclistes sont autorisés à circuler entre 2 files",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "sur les routes à chaussées séparées"
+            },
+            {
+                "isAnswere": false,
+                "value": "sur les routes à double sens de circulation"
+            },
+            {
+                "isAnswere": true,
+                "value": "sur les autoroutes"
+            }
+        ],
+        "answere": "Les motards qui circulent entre les files de voitures, ce n'est pas nouveau. Ce qui l'est, c'est que c'est désormais autorisé dans certains départements, lorsque la circulation est ralentie (moins de 50 km/h), alors que la vitesse y est normalement limitée à 70 km/h minimum. Cette pratique reste interdite sur les routes à double sens de circulation, mais elle est autorisée sur les chaussées à sens uniques (séparées par un terre-plein), y compris sur l'autoroute. Les motards peuvent circuler entre les 2 files les plus à gauche.",
+        "explanation": ""
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 10,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.10.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/030/medium/00010qA.jpg?1534253897",
+        "question": "Cette commande permet",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "De couper le moteur"
+            },
+            {
+                "isAnswere": false,
+                "value": "D'ouvrir le capot"
+            },
+            {
+                "isAnswere": true,
+                "value": "De désactiver l'airbag"
+            }
+        ],
+        "answere": "Cette commande comporte le symbole de l'airbag.",
+        "explanation": "Il s'agit de la commande pour désactiver l'airbag passager, utile si je dois transporter un jeune enfant dos à la route.\n\nBeaucoup de voitures le permettent de cette façon. On trouve cette commande généralement dans la boîte à gants ou en ouvrant la portière côté passager. Mais ce n'est pas toujours le cas. Cela dépend des modèles de voitures... Pour le vérifier, le plus simple est de consulter la notice du constructeur !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 11,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.11.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/033/medium/00011qA.jpg?1534253912",
+        "question": "Lorsque le brouillard est dense",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "mon temps de réaction augmente sensiblement"
+            },
+            {
+                "isAnswere": true,
+                "value": "j'augmente les intervalles de sécurité"
+            },
+            {
+                "isAnswere": true,
+                "value": "je réduis ma vitesse"
+            },
+            {
+                "isAnswere": false,
+                "value": "j'allume les feux de route"
+            }
+        ],
+        "answere": "A moins d'effectuer un très long parcours dans le brouillard, celui-ci n'a pas d'influence notable sur le temps de réaction.",
+        "explanation": "Cependant, j'augmente l'intervalle de sécurité avec le véhicule qui me précède. En laissant une seconde de plus (soit 3 secondes en tout), je réduis nettement le risque d'être surpris en cas de freinage violent. Ce qui arrive assez souvent lorsqu'il y a du brouillard.\n\nBien sûr, j'adapte ma vitesse à la visibilité. Moins elle est bonne, plus je ralentis.\n\nD'autre part, j'allume au moins les feux de croisement, voire les feux de brouillard avant et arrière. Mais en aucun cas les feux de route, même s'il n'y a personne devant moi."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 12,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.12.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/036/medium/00012qA.jpg?1534253927",
+        "question": "Je reste dans cette voie si",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "je vais à droite"
+            },
+            {
+                "isAnswere": true,
+                "value": "je vais en face"
+            },
+            {
+                "isAnswere": false,
+                "value": "je vais à gauche"
+            },
+            {
+                "isAnswere": false,
+                "value": "je fais demi-tour"
+            }
+        ],
+        "answere": "Je vais aborder un carrefour à sens giratoire. C'est le panneau qui me l'indique.",
+        "explanation": "La chaussée comporte 2 voies de circulation. Elle est à sens unique. Aussi, je me place de préférence dans la voie de gauche immédiatement si je tourne à gauche ou pour faire demi-tour.\n\nMais pour tourner à droite ou continuer tout droit, je dois rester dans la voie de droite."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 13,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.13.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/039/medium/00013qA.jpg?1534253940",
+        "question": "Le contrôle du niveau de ce liquide s'effectue",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "avec une jauge"
+            },
+            {
+                "isAnswere": true,
+                "value": "par transparence"
+            },
+            {
+                "isAnswere": true,
+                "value": "sur terrain plat"
+            }
+        ],
+        "answere": "Ce réservoir (le liquide de refroidissement) est relativement translucide.",
+        "explanation": "Pourquoi ? Pour pouvoir contrôler son niveau par transparence. Cela évite de l'ouvrir, ce qui peut être dangereux : le liquide de refroidissement est sous pression et peut se mettre à bouillir et déborder si le moteur est chaud.\n\nCe niveau, comme tous les autres, doit être contrôlé sur terrain plat afin d'obtenir une mesure précise."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 14,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.14.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/042/medium/00014qA.jpg?1534253957",
+        "question": "A 30 km/h, j'ai besoin pour m'arrêter d'environ",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "3 mètres"
+            },
+            {
+                "isAnswere": true,
+                "value": "10 mètres"
+            }
+        ],
+        "answere": "Comment calculer la distance d'arrêt (approximativement), sur sol sec, en connaissant sa vitesse en km/h ?",
+        "explanation": "En faisant un rapide calcul tout simple.\n\nIl suffit de prendre les chiffres des dizaines de la vitesse (ou de diviser la vitesse par 10, cela revient au même), et de multiplier le résultat par lui-même.\n\nCe qui donne à 30 km/h : 30/10=3 ; 3x3=9. Donc environ 10 mètres.\n\nEt à 50 km/h : 50/10=5 ; 5x5=25.\n\nOn remarque au passage qu'entre 30 et 50 km/h, on n'a pas doublé la vitesse... mais que la distance de freinage a plus que doublé !\n\nC'est parce que les effets de la vitesse (chocs, freinages, tenue de route...) ne sont pas proportionnels à la vitesse, mais au carré de celle-ci (la vitesse multipliée par elle-même)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": "14",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.14.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/042/medium/00014qA.jpg?1534253957",
+        "question": "A 50 km/h, j'ai besoin pour m'arrêter d'enviro",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "25 mètres"
+            },
+            {
+                "isAnswere": false,
+                "value": "50 mètres"
+            },
+            {
+                "isAnswere": false,
+                "value": "290 mètres"
+            }
+        ],
+        "answere": "Comment calculer la distance d'arrêt (approximativement), sur sol sec, en connaissant sa vitesse en km/h ?",
+        "explanation": "En faisant un rapide calcul tout simple.\n\nIl suffit de prendre les chiffres des dizaines de la vitesse (ou de diviser la vitesse par 10, cela revient au même), et de multiplier le résultat par lui-même.\n\nCe qui donne à 30 km/h : 30/10=3 ; 3x3=9. Donc environ 10 mètres.\n\nEt à 50 km/h : 50/10=5 ; 5x5=25.\n\nOn remarque au passage qu'entre 30 et 50 km/h, on n'a pas doublé la vitesse... mais que la distance de freinage a plus que doublé !\n\nC'est parce que les effets de la vitesse (chocs, freinages, tenue de route...) ne sont pas proportionnels à la vitesse, mais au carré de celle-ci (la vitesse multipliée par elle-même)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 15,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.15.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/045/medium/00015qA.jpg?1534253974",
+        "question": "Ne pas s'arrêter à un STOP peut entraîner",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "un retrait de 4 points sur le permis de conduire"
+            },
+            {
+                "isAnswere": true,
+                "value": "une amende de 4ème classe"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "A un STOP, l'arrêt est obligatoire. Ce n'est pas le fait de passer plus ou moins vite qui est sanctionné, mais de ne pas s'arrêter. Même un bref instant, la voiture doit s'immobiliser.",
+        "explanation": "Si je passe sans marquer l'arrêt, je risque un retrait de 4 points sur mon permis de conduire et une amende de 4ème classe."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 16,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.16.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/048/medium/00016qA.jpg?1534253989",
+        "question": "Pour moins polluer, il est préférable de stationner son véhicule",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "En centre-ville"
+            },
+            {
+                "isAnswere": true,
+                "value": "Dans un parc relais, puis prendre le bus"
+            }
+        ],
+        "answere": "Un PARC-RELAIS, c'est un parking, généralement situé aux abords des grandes villes. Il est signalé par ce panneau. Il se trouve à proximité des transports en commun (bus ou tramways).",
+        "explanation": "Cela évite de perdre du temps dans les bouchons, puis en cherchant une place pour se garer.\n\nC'est donc LA solution rapide, économique et écologique pour se rendre en centre-ville."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 17,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.17.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/051/medium/00017qA.jpg?1534254005",
+        "question": "La conduite d'un véhicule est dangereuse si j'ai pris un médicament qui comporte",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "le pictogramme N°1"
+            },
+            {
+                "isAnswere": true,
+                "value": "le pictogramme N°2"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Sur les emballages de certains médicaments, on peut trouver l'un des 3 pictogrammes indiquant que celui-ci est dangereux pour la conduite, à des degrés divers.",
+        "explanation": "Un jaune, qui déconseille la conduite sans avoir lu la notice (niveau 1) ; un orange, qui nécessite l'avis du médecin ou du pharmacien (niveau 2) et un rouge, qui interdit la conduite dans tous les cas (niveau 3).\n\nAttention, certains médicaments vendus sans ordonnance peuvent être de niveau 3."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 18,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.18.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/054/medium/00018qA.jpg?1534254020",
+        "question": "Cette chaussée ne présente plus aucun risque de déraper",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Vrai"
+            },
+            {
+                "isAnswere": true,
+                "value": "Faux"
+            }
+        ],
+        "answere": "Il reste de la neige sur le bord de la route, mais la chaussée en elle-même semble bien dégagée. N'y a-t-il alors plus aucun risque ? Puis-je circuler à la vitesse maximale autorisée ? C'est-à-dire à 80 km/h ?",
+        "explanation": "Non, bien sûr ! Il n'est pas exclu qu'il reste de la neige par endroits. D'autre part, la route est très certainement à une température proche de 0. A cette température, le risque de verglas est important (même si la température de l'air est positive)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": "18",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.18.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/054/medium/00018qA.jpg?1534254020",
+        "question": "Je circule à la vitesse maximale autorisée",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Il reste de la neige sur le bord de la route, mais la chaussée en elle-même semble bien dégagée. N'y a-t-il alors plus aucun risque ? Puis-je circuler à la vitesse maximale autorisée ? C'est-à-dire à 80 km/h ?",
+        "explanation": "Non, bien sûr ! Il n'est pas exclu qu'il reste de la neige par endroits. D'autre part, la route est très certainement à une température proche de 0. A cette température, le risque de verglas est important (même si la température de l'air est positive)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 19,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.19.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/057/medium/00019qA.jpg?1534254035",
+        "question": "Le principal danger se trouve dans la zone",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "N°1"
+            },
+            {
+                "isAnswere": true,
+                "value": "N°2"
+            },
+            {
+                "isAnswere": false,
+                "value": "N°3"
+            },
+            {
+                "isAnswere": false,
+                "value": "N°4"
+            }
+        ],
+        "answere": "La zone 1, située à gauche, ne présente pas de danger particulier. Ce pourrait être le cas si un piéton ou un cycliste arrivait, mais il n'y a personne.",
+        "explanation": "Dans le rétroviseur (zone 3), je vois une voiture qui me suit. Mais elle est à une distance suffisante pour que son conducteur ait le temps de réagir si je devais freiner.\n\nDans la zone 4, il pourrait y avoir un risque : un enfant, plutôt petit, pourrait déboucher. Je reste vigilant, mais ce n'est pas le principal danger ici : je devrais le voir arriver au travers des vitres.\n\nLe principal danger se trouve dans la zone N°2 : le camion peut me masquer n'importe quoi : le départ de la voiture située devant lui (je ne vois pas ses clignotants). Mais surtout, l'arrivée d'un piéton sur le point de traverser. Je ne le verrai que lorsqu'il sera engagé... et il ne me verra pas arriver non plus.\n\nJe ralentis et je garde le pied au-dessus du frein."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 20,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "1.20.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/013/large-mp4/00005qA.mp4?1534253731",
+        "question": "Les conditions pour entamer un dépassement sont réunies:",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "La signalisation autorise le dépassement.",
+        "explanation": "En effet, la flèche de rabattement est en sens inverse, elle concerne donc uniquement les usagers arrivant en face. Quant à la ligne de dissuasion, elle est liée à cette fameuse flèche de rabattement. Elle ne me concerne pas non plus.\n\nLa visibilité vers l'avant est bonne, personne n'arrive en face, et personne n'est sur le point de me dépasser... Les conditions sont idéales si je veux entreprendre ce dépassement immédiatement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 21,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.21.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/063/medium/00021qA.jpg?1534254072",
+        "question": "Une mauvaise installation au poste de conduite accélère l'apparition de la fatigue:",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Une mauvaise installation au poste de conduite, trop proche ou trop éloignée du volant, les bras ou les jambes trop pliés ou au contraire trop tendus, sont sources d'inconfort.",
+        "explanation": "Sur un long parcours, cela aura pour conséquences d'accélérer l'apparition de la fatigue, donc l'augmentation du temps de réaction et le risque de somnolence."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 22,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.22.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/066/medium/00022qA.jpg?1534254087",
+        "question": "Une acuité visuelle de 10/10 èmes me permet de lire un panneau d'entrée en agglomération à une distance d'au moins",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "30 mètres"
+            },
+            {
+                "isAnswere": true,
+                "value": "50 mètres"
+            },
+            {
+                "isAnswere": false,
+                "value": "100 mètres"
+            }
+        ],
+        "answere": "Normalement, je dois être capable de lire un panneau d'entrée d'agglomération à partir de 50 mètres. Leur taille le permet",
+        "explanation": "Si ce n'est pas le cas, un passage chez l'ophtalmologiste s'impose : il y a certainement un moyen d'améliorer ma vue. Or sur la route, une grande partie des informations passe par les yeux. Pour anticiper il faut bien voir, et de loin !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 23,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.23.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/069/medium/00023qA.jpg?1534254102",
+        "question": "Sur route sèche, circuler avec des chaînes est",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Autorisé"
+            },
+            {
+                "isAnswere": false,
+                "value": "Déconseillé"
+            },
+            {
+                "isAnswere": true,
+                "value": "Interdit"
+            }
+        ],
+        "answere": "Lorsqu'une route n'est plus enneigée, il n'est pas autorisé de circuler avec des chaînes. Cela n'aurait aucun intérêt. ",
+        "explanation": "Elles se dégraderaient rapidement, jusqu'à se rompre ; et elles dégraderaient également la route. De plus, l'adhérence qu'offrent des chaînes sur le bitume n'est pas bonne du tout.\n\nCe n'est donc pas déconseillé, c'est tout simplement interdit !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 24,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.24.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/072/medium/00024qA.jpg?1534254118",
+        "question": "En circulation, il est préférable de regarder l'écran du GPS",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "assez longtemps, une bonne fois pour toutes"
+            },
+            {
+                "isAnswere": true,
+                "value": "en plusieurs fois, brièvement"
+            }
+        ],
+        "answere": "Une fois le GPS programmé (à l'arrêt !), il est bien sûr nécessaire de consulter l'écran de temps en temps pour confirmer la route à suivre. Même s'il faut privilégier le guidage vocal, qui permet de garder les yeux sur la route.",
+        "explanation": "Pour regarder l'écran du GPS, il ne faut pas quitter la route des yeux trop longtemps. Ainsi, il est préférable de regarder l'écran à plusieurs reprises mais brièvement. Se tromper de direction n'est pas dramatique. Avoir un accident... ça peut l'être !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 25,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "1.25.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/074/large-mp4/00025qA.mp4?1534254130",
+        "question": "Pour réduire les effets du virage, je suis autorisé à chevaucher la ligne médiane",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Il est strictement interdit de chevaucher une ligne médiane, même si elle est discontinue, même s'il y a de la visibilité, dans le seul but de couper un virage pour en diminuer les effets. La route n'est pas un circuit automobile !",
+        "explanation": "Pour réduire les effets du virage, il suffit de ralentir. En restant obligatoirement dans sa voie de circulation."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 26,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.26.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/079/medium/00026qA.jpg?1534254269",
+        "question": "Pour déclarer un accident à mon assureur, je peux utiliser",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "un constat \"papier\""
+            },
+            {
+                "isAnswere": true,
+                "value": "un constat \"dématérialisé\""
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Pour déclarer un accident à son assureur, on peut bien sûr utiliser un constat européen au format papier.",
+        "explanation": "Mais on peut aussi le déclarer sur son téléphone sous forme dématérialisée (sans document physique) : il existe une application qui permet de faire la même chose (elle comporte les mêmes rubriques, y compris la possibilité de signer), et elle permet en plus d'ajouter des photos !\n\nDe plus, le constat dématérialisé est transmis immédiatement et automatiquement à l'assureur."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 27,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.27.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/082/medium/00027qA.jpg?1534254284",
+        "question": "Dans les rues à sens unique, les cyclistes peuvent être autorisés à circuler à contresens si je rencontre le panneau:",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "N°1"
+            },
+            {
+                "isAnswere": true,
+                "value": "N°2"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Ces 2 panneaux imposent une vitesse maximale lente. Pas seulement dans une rue, mais dans tout un quartier.",
+        "explanation": "Ce n'est pas leur seul point commun. En effet, je dois m'attendre, dans les zones concernées, à rencontrer des cyclistes qui circulent à contresens dans les rues à sens unique pour les véhicules motorisés. Autrement dit, ils ne sont pas concernés par les panneaux de sens interdit."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 28,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.28.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/085/medium/00028qA.jpg?1534254299",
+        "question": "Une utilisation intensive de la climatisation a des répercussions",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "économiques"
+            },
+            {
+                "isAnswere": true,
+                "value": "écologiques"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "La climatisation est à la fois un accessoire de confort et de sécurité. En effet, s'il fait trop chaud dans l'habitacle, le risque de somnolence est plus important.",
+        "explanation": "Mais son utilisation doit être modérée. En effet, ce dispositif entraîne une surconsommation de carburant. Donc l'augmentation du coût du trajet. Et au-delà, plus de carburant consommé, c'est aussi plus de pollution dans l'atmosphère."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 29,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.29.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/088/medium/00029qA.jpg?1534254315",
+        "question": "A 90 km/h sur sol sec, ma distance minimum d'arrêt est d'environ",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "30 mètres"
+            },
+            {
+                "isAnswere": false,
+                "value": "60 mètres"
+            },
+            {
+                "isAnswere": true,
+                "value": "80 mètres"
+            },
+            {
+                "isAnswere": false,
+                "value": "100 mètres"
+            }
+        ],
+        "answere": "Comment calculer la distance d'arrêt (approximativement), sur sol sec, en connaissant sa vitesse en km/h ?",
+        "explanation": "En faisant un rapide calcul tout simple.\n\nIl suffit de prendre les chiffres des dizaines de la vitesse (ou de diviser la vitesse par 10, cela revient au même), et de multiplier le résultat par lui-même.\n\nCe qui donne 90/10=9.\n\n9x9=81.\n\nLe compte est bon ! Il me faudra au minimum environ 80 mètres pour m'arrêter, distance parcourue pendant le temps de réaction comprise, si je circule à 90 km/h sur une route sèche."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 30,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.30.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/005/040/medium/1600qA.jpg?1534348654",
+        "question": "La vitesse est limitée à 90 km/h pour",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "La voiture jaune"
+            },
+            {
+                "isAnswere": true,
+                "value": "La voiture verte"
+            },
+            {
+                "isAnswere": false,
+                "value": "La voiture bleue"
+            },
+            {
+                "isAnswere": false,
+                "value": "Les 3 voitures"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Hors agglomération, sur les chaussées à double sens, la vitesse est désormais limitée à 80 km/h. Sauf s'il y a plusieurs voies réservées à 1 seul sens de circulation.",
+        "explanation": "Ainsi, la voiture bleue est limitée à 80 km/h, alors que la voiture jaune et la voiture verte sont limitées à 90 km/h pour les conducteurs qui ne sont plus en période probatoire."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 31,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.31.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/094/medium/00031qA.jpg?1534254348",
+        "question": "L'habitacle d'une voiture garée en plein soleil peut atteindre la température de 60° C en 10 minutes",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Garée en plein soleil, l'intérieur d'une voiture peut chauffer très rapidement. La couleur de la voiture ou encore des vitres teintées n'ont que peu d'influence.",
+        "explanation": "Ainsi, en 10 minutes, l'habitacle peut atteindre voire dépasser les 60°C.\n\nA cette température, un enfant laissé dans la voiture, même si les vitres sont entrouvertes, ne peut pas survivre. Il perd connaissance puis décède d'un arrêt cardiaque."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": "31",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.31.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/094/medium/00031qA.jpg?1534254348",
+        "question": "Un enfant laissé dans cette voiture risque un arrêt cardiaque",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Garée en plein soleil, l'intérieur d'une voiture peut chauffer très rapidement. La couleur de la voiture ou encore des vitres teintées n'ont que peu d'influence.",
+        "explanation": "Ainsi, en 10 minutes, l'habitacle peut atteindre voire dépasser les 60°C.\n\nA cette température, un enfant laissé dans la voiture, même si les vitres sont entrouvertes, ne peut pas survivre. Il perd connaissance puis décède d'un arrêt cardiaque."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 32,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.32.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/097/medium/00032qA.jpg?1534254365",
+        "question": "Des pneus sous-gonflés tiennent mieux la route",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "sur sol mouillé"
+            },
+            {
+                "isAnswere": false,
+                "value": "lorsque la route est enneigée"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Les pneus sous-gonflés n'ont aucun intérêt sur route. Que celle-ci soit sèche, humide ou enneigée. Ils dégradent la tenue de route, et surtout ils subissent plus de déformations. Conséquence : ils s'échauffent et risquent d'éclater.",
+        "explanation": ""
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 33,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.33.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/100/medium/00033qA.jpg?1534254380",
+        "question": "Titulaire du seul permis BEA (boîte de vitesse automatique) uniquement, je suis autorisé à conduire une voiture à boîte de vitesse manuelle:",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "si je suis en période probatoire"
+            },
+            {
+                "isAnswere": false,
+                "value": "si j'ai 10 ans de permis"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Le permis B (voitures à embrayage manuel et boîte de vitesse manuelle) permet de conduire une voiture automatique sans condition et sans formalité.",
+        "explanation": "Mais l'inverse n'est pas vrai. Si je suis titulaire du permis BEA, je peux conduire uniquement des voitures à boîtes de vitesses automatiques.\n\nPour conduire une voiture manuelle, je devrai passer une épreuve supplémentaire du permis de conduire. Même si j'ai mon permis depuis plus de 10 ans !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 34,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "1.34.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/501/large-mp4/00163qA.mp4?1534256887",
+        "question": "La vitesse est limitée à 30 km/h",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "parce que l'endroit est dangereux"
+            },
+            {
+                "isAnswere": false,
+                "value": "parce qu'il y a des ralentisseurs"
+            }
+        ],
+        "answere": "Ce n'est pas parce qu'il y a des ralentisseurs que la vitesse est limitée à 30 km/h ! Il ne faut pas prendre le problème à l'envers...",
+        "explanation": "Si la vitesse est limitée à 30 km/h, c'est que l'endroit est dangereux. Il y a certainement très souvent des piétons, et en particulier des enfants dans cette zone. Et s'il y a des ralentisseurs, c'est pour s'assurer que les automobilistes les moins respectueux ralentiront effectivement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 35,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.35.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/106/medium/00035qA.jpg?1534254407",
+        "question": "Après un certain nombre d'heures éveillé, le jugement, la concentration et les réflexes d'un conducteur diminuent",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Uniquement s'il a consommé de l'alcool"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Tout individu qui a consommé de l'alcool voit son jugement, sa concentration et ses réflexes diminuer.",
+        "explanation": "Mais c'est aussi le cas avec la fatigue ! Alcool ou non !!!\n\nVoilà pourquoi il est recommandé de prendre le volant uniquement si on est reposé (et pas après une nuit courte ou une longue et difficile journée de travail), surtout pour faire un long trajet, et de faire des pauses. Toutes les 2 heures grand maximum."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 36,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.36.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/109/medium/00036qA.jpg?1534254421",
+        "question": "En ville, les piétons les plus touchés dans les accidents mortels sont",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Les enfants"
+            },
+            {
+                "isAnswere": false,
+                "value": "Les 16-25 ans"
+            },
+            {
+                "isAnswere": true,
+                "value": "Les personnes âgées"
+            }
+        ],
+        "answere": "En ville, les piétons sont très exposés aux accidents mortels. Ils ne sont protégés par aucune carrosserie, ce qui fait d'eux des usagers fragiles",
+        "explanation": "Ce sont les personnes âgées qui sont les plus touchées. En effet, leur déplacement est lent, elles voient et entendent moins bien, elles réagissent aussi moins vite. Et leur santé est plus fragile."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 37,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.37.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/112/medium/00037qA.jpg?1534254435",
+        "question": "Lors d'une marche arrière, une caméra de recul dispense",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "de regarder dans les rétroviseurs"
+            },
+            {
+                "isAnswere": false,
+                "value": "de se retourner"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Certains véhicules disposent d'une caméra de recul. C'est très pratique : cela permet au conducteur de voir ce qui se passe derrière la voiture, y compris très près. Ce qui est impossible à voir en se retournant ou dans les rétroviseurs.",
+        "explanation": "Mais attention : le champ de vision d'une caméra de recul est étroit. Et l'image, déformée, ne permet pas de bien estimer les distances ou les vitesses.\n\nCe dispositif complète la vision directe (en se retournant) et dans les rétroviseurs, mais il ne les remplace pas."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 38,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.38.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/115/medium/00038qA.jpg?1534254453",
+        "question": "J'ai plus de risque de rencontrer rapidement une plaque de verglas si",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "je tourne à droite"
+            },
+            {
+                "isAnswere": true,
+                "value": "je tourne à gauche"
+            }
+        ],
+        "answere": "Visiblement, il gèle.",
+        "explanation": "Sur le panneau, je remarque un symbole qui concerne uniquement la route qui tourne à gauche. De quoi s'agit-il ?\n\nIl s'agit de la représentation d'un pont. Et un pont est l'endroit idéal pour la formation de verglas puisqu'il peut se refroidir par le dessus et par le dessous. Et s'il y a un cours d'eau à proximité, l'humidité se transforme rapidement en glace.\n\nVoilà pourquoi, même si la route ne semble pas glissante, il est plus probable de trouver une plaque de verglas si je vais vers ARUDY et OLORON (mais ça n'exclut pas totalement le risque si je vais à droite !)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 39,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.39.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/118/medium/00039qA.jpg?1534254470",
+        "question": "Pour réanimer une victime, je suis autorisé à utiliser un défibrillateur automatique",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "si j'ai suivi une formation de secouriste"
+            },
+            {
+                "isAnswere": true,
+                "value": "si je n'ai pas suivi cette formation"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Toute personne est en mesure d'utiliser un défibrillateur automatique. Inutile d'être secouriste ou d'avoir suivi une formation, même si on ne peut que la recommander.",
+        "explanation": "L'utilisation est relativement simple : il suffit de lire la notice (généralement illustrée) et de respecter les consignes... ou d'écouter. En effet, certains défibrillateurs parlent !\n\nQuand utiliser ce type d'appareil ? Dès que l'on pense qu'une personne est en détresse cardiaque. Il suffit de le mettre en place, et il se charge tout seul du diagnostic et essaie de relancer le coeur si besoin.\n\nNe pas oublier d'alerter les secours malgré tout !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 40,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.40.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/122/medium/00040qB.jpg?1534254495",
+        "question": "Un conducteur novice est capable:",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "de déceler tous ces indices en mêmes temps"
+            },
+            {
+                "isAnswere": false,
+                "value": "de réagir immédiatement"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Entre les panneaux de direction, les voitures qui changent de files, celui qui me suit de trop près et la voiture devant moi qui freine... cela fait beaucoup de choses à surveiller !",
+        "explanation": "Personne n'est capable de traiter instantanément toutes ces informations et de bien réagir à tous les coups.\n\nC'est d'autant plus vrai si la vitesse est élevée, que je suis fatigué (ou alcoolisé !), ou que je suis conducteur novice.\n\nLa solution ? Ralentir un peu, augmenter les intervalles de sécurité, et anticiper. Les choses deviennent alors beaucoup plus simples."
+    }
+]

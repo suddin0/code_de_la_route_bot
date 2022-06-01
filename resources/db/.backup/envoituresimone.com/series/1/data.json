@@ -1,0 +1,233 @@
+[
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 1,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.1.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/097/medium/00032qA.jpg?1534254365",
+        "question": "Des pneus sous-gonflés tiennent mieux la route",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "sur sol mouillé"
+            },
+            {
+                "isAnswere": false,
+                "value": "lorsque la route est enneigée"
+            },
+            {
+                "isAnswere": true,
+                "value": "aucun"
+            }
+        ],
+        "answere": "Les pneus sous-gonflés n'ont aucun intérêt sur route. Que celle-ci soit sèche, humide ou enneigée. Ils dégradent la tenue de route, et surtout ils subissent plus de déformations. Conséquence : ils s'échauffent et risquent d'éclater.",
+        "explanation": ""
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 2,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.2.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/100/medium/00033qA.jpg?1534254380",
+        "question": "Titulaire du seul permis BEA (boîte de vitesse automatique) uniquement, je suis autorisé à conduire une voiture à boîte de vitesse manuelle",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "si je suis en période probatoire"
+            },
+            {
+                "isAnswere": false,
+                "value": "si j'ai 10 ans de permis"
+            },
+            {
+                "isAnswere": true,
+                "value": "aucun"
+            }
+        ],
+        "answere": "Le permis B (voitures à embrayage manuel et boîte de vitesse manuelle) permet de conduire une voiture automatique sans condition et sans formalité",
+        "explanation": "Mais l'inverse n'est pas vrai. Si je suis titulaire du permis BEA, je peux conduire uniquement des voitures à boîtes de vitesses automatiques.\n\nPour conduire une voiture manuelle, je devrai passer une épreuve supplémentaire du permis de conduire. Même si j'ai mon permis depuis plus de 10 ans !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 3,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "1.3.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/501/large-mp4/00163qA.mp4?1534256887",
+        "question": "La vitesse est limitée à 30 km/h",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "parce que l'endroit est dangereux"
+            },
+            {
+                "isAnswere": false,
+                "value": "parce qu'il y a des ralentisseurs"
+            }
+        ],
+        "answere": "Ce n'est pas parce qu'il y a des ralentisseurs que la vitesse est limitée à 30 km/h ! Il ne faut pas prendre le problème à l'envers...",
+        "explanation": "Si la vitesse est limitée à 30 km/h, c'est que l'endroit est dangereux. Il y a certainement très souvent des piétons, et en particulier des enfants dans cette zone. Et s'il y a des ralentisseurs, c'est pour s'assurer que les automobilistes les moins respectueux ralentiront effectivement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 4,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.4.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/106/medium/00035qA.jpg?1534254407",
+        "question": "Après un certain nombre d'heures éveillé, le jugement, la concentration et les réflexes d'un conducteur diminuent",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Uniquement s'il a consommé de l'alcool"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Tout individu qui a consommé de l'alcool voit son jugement, sa concentration et ses réflexes diminuer.",
+        "explanation": "Mais c'est aussi le cas avec la fatigue ! Alcool ou non !!!\n\nVoilà pourquoi il est recommandé de prendre le volant uniquement si on est reposé (et pas après une nuit courte ou une longue et difficile journée de travail), surtout pour faire un long trajet, et de faire des pauses. Toutes les 2 heures grand maximum."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 5,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.5.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/109/medium/00036qA.jpg?1534254421",
+        "question": "En ville, les piétons les plus touchés dans les accidents mortels sont",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "les enfants"
+            },
+            {
+                "isAnswere": false,
+                "value": "les 16-25 ans"
+            },
+            {
+                "isAnswere": true,
+                "value": "les personnes âgées"
+            }
+        ],
+        "answere": "as",
+        "explanation": "as"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 6,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.6.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/112/medium/00037qA.jpg?1534254435",
+        "question": "Lors d'une marche arrière, une caméra de recul dispense:",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "de regarder dans les rétroviseurs"
+            },
+            {
+                "isAnswere": false,
+                "value": "de se retourner"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Certains véhicules disposent d'une caméra de recul. C'est très pratique : cela permet au conducteur de voir ce qui se passe derrière la voiture, y compris très près. Ce qui est impossible à voir en se retournant ou dans les rétroviseurs",
+        "explanation": "Mais attention : le champ de vision d'une caméra de recul est étroit. Et l'image, déformée, ne permet pas de bien estimer les distances ou les vitesses.\n\nCe dispositif complète la vision directe (en se retournant) et dans les rétroviseurs, mais il ne les remplace pas."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 7,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.7.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/115/medium/00038qA.jpg?1534254453",
+        "question": "J'ai plus de risque de rencontrer rapidement une plaque de verglas si:",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "je tourne à droite"
+            },
+            {
+                "isAnswere": true,
+                "value": "je tourne à gauche"
+            }
+        ],
+        "answere": "Sur le panneau, je remarque un symbole qui concerne uniquement la route qui tourne à gauche. De quoi s'agit-il ?",
+        "explanation": "Il s'agit de la représentation d'un pont. Et un pont est l'endroit idéal pour la formation de verglas puisqu'il peut se refroidir par le dessus et par le dessous. Et s'il y a un cours d'eau à proximité, l'humidité se transforme rapidement en glace.\n\nVoilà pourquoi, même si la route ne semble pas glissante, il est plus probable de trouver une plaque de verglas si je vais vers ARUDY et OLORON (mais ça n'exclut pas totalement le risque si je vais à droite !)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 8,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.8.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/118/medium/00039qA.jpg?1534254470",
+        "question": "Pour réanimer une victime, je suis autorisé à utiliser un défibrillateur automatique:",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "si j'ai suivi une formation de secouriste"
+            },
+            {
+                "isAnswere": true,
+                "value": "si je n'ai pas suivi cette formation"
+            }
+        ],
+        "answere": "Toute personne est en mesure d'utiliser un défibrillateur automatique. Inutile d'être secouriste ou d'avoir suivi une formation, même si on ne peut que la recommander.",
+        "explanation": "L'utilisation est relativement simple : il suffit de lire la notice (généralement illustrée) et de respecter les consignes... ou d'écouter. En effet, certains défibrillateurs parlent !\n\nQuand utiliser ce type d'appareil ? Dès que l'on pense qu'une personne est en détresse cardiaque. Il suffit de le mettre en place, et il se charge tout seul du diagnostic et essaie de relancer le coeur si besoin.\n\nNe pas oublier d'alerter les secours malgré tout !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 1,
+        "questionNumber": 9,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "1.9.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/121/medium/00040qA.jpg?1534254485",
+        "question": "Un conducteur novice est capable",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "de déceler tous ces indices en mêmes temps"
+            },
+            {
+                "isAnswere": false,
+                "value": "de réagir immédiatement"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Entre les panneaux de direction, les voitures qui changent de files, celui qui me suit de trop près et la voiture devant moi qui freine... cela fait beaucoup de choses à surveiller !",
+        "explanation": "Personne n'est capable de traiter instantanément toutes ces informations et de bien réagir à tous les coups.\n\nC'est d'autant plus vrai si la vitesse est élevée, que je suis fatigué (ou alcoolisé !), ou que je suis conducteur novice.\n\nLa solution ? Ralentir un peu, augmenter les intervalles de sécurité, et anticiper. Les choses deviennent alors beaucoup plus simples."
+    }
+]

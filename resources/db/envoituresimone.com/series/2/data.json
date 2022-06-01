@@ -1,0 +1,1180 @@
+[
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 1,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "2.1.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/509/large-mp4/00165qA.mp4?1534257163",
+        "question": "En chevauchant cette ligne continue pour dépasser le cycliste, je suis en infraction",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            },
+            {
+                "isAnswere": true,
+                "value": "J'assure sa sécurité"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Pour dépasser un cycliste, je dois laisser un intervalle suffisant pour prévenir tout risque d'écart ou de perte d'équilibre de sa part. Ce qui est plus probable que lorsque je dépasse une voiture.",
+        "explanation": "Cette zone vers laquelle il pourrait se déporter, c'est ce qu'on appelle la ZONE D'INCERTITUDE.\n\nAlors pour le dépasser il est préférable de chevaucher la ligne continue afin de garantir sa sécurité.\n\nS'agit-il d'une infraction ? Non. Pour dépasser un cycliste, c'est autorisé. Et même recommandé !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 2,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.2.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/128/medium/00042qA.jpg?1534254528",
+        "question": "La consommation combinée de cannabis et d'alcool multiplie le risque d'accident mortel par",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "4"
+            },
+            {
+                "isAnswere": true,
+                "value": "29"
+            },
+            {
+                "isAnswere": false,
+                "value": "24"
+            },
+            {
+                "isAnswere": false,
+                "value": "34"
+            }
+        ],
+        "answere": "Plusieurs études montrent que l'association cannabis et alcool est particulièrement dangereuse pour la conduite. Bien plus que chacun de ses produits pris séparément (qui sont déjà dangereux !).",
+        "explanation": "On estime que le risque d'accident mortel en ayant consommé ce cocktail multiplie le risque d'accident par...29 !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 3,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.3.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/131/medium/00043qA.jpg?1534254543",
+        "question": "Le risque le plus probable est ",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "De recevoir une pierre sur la voiture"
+            },
+            {
+                "isAnswere": true,
+                "value": "Qu'il y ait des pierres sur la chaussée"
+            }
+        ],
+        "answere": "Les 2 risques existent : celui de recevoir une pierre sur la voiture, mais aussi de trouver des pierres déjà tombées.",
+        "explanation": "Mais le plus probable est de trouver des pierres sur la route, ce qui peut être dangereux (risque d'éclatement d'un pneu par exemple).\n\nMais ce n'est pas la peine de chercher les ennuis ! Si je stationne dans ce secteur, j'augmente le risque de recevoir une pierre sur le toit. Voilà pourquoi il est préférable de stationner en dehors de cette zone."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": "3",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.3.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/131/medium/00043qA.jpg?1534254543",
+        "question": "Stationner dans cette zone est déconseillé",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Les 2 risques existent : celui de recevoir une pierre sur la voiture, mais aussi de trouver des pierres déjà tombées.",
+        "explanation": "Mais le plus probable est de trouver des pierres sur la route, ce qui peut être dangereux (risque d'éclatement d'un pneu par exemple).\n\nMais ce n'est pas la peine de chercher les ennuis ! Si je stationne dans ce secteur, j'augmente le risque de recevoir une pierre sur le toit. Voilà pourquoi il est préférable de stationner en dehors de cette zone."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 4,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.4.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/134/medium/00044qA.jpg?1534254559",
+        "question": "Un délit de fuite est passible : d'une peine de prison allant jusqu'à",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "1 an"
+            },
+            {
+                "isAnswere": true,
+                "value": "3 an"
+            }
+        ],
+        "answere": "Commettre un délit de fuite, c'est provoquer un accident et s'enfuir sans laisser d'adresse.",
+        "explanation": "Les sanctions sont extrêmement lourdes. Jusqu'à 3 ans de prison et 75 000 € d'amende.\n\nAttention, le délit de fuite ne concerne pas que les accidents corporels. Si vous égratignez légèrement une voiture sur un parking et que vous ne laissez pas vos coordonnées, il s'agit aussi d'un délit de fuite !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": "4",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.4.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/134/medium/00044qA.jpg?1534254559",
+        "question": "Un délit de fuite est passible : d'une amende pouvant coûter jusqu'à",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "15 000€"
+            },
+            {
+                "isAnswere": true,
+                "value": "75 000€"
+            }
+        ],
+        "answere": "Commettre un délit de fuite, c'est provoquer un accident et s'enfuir sans laisser d'adresse.",
+        "explanation": "Les sanctions sont extrêmement lourdes. Jusqu'à 3 ans de prison et 75 000 € d'amende.\n\nAttention, le délit de fuite ne concerne pas que les accidents corporels. Si vous égratignez légèrement une voiture sur un parking et que vous ne laissez pas vos coordonnées, il s'agit aussi d'un délit de fuite !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 5,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.5.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/137/medium/00045qA.jpg?1534254574",
+        "question": "Pour être mieux vu, j'allume les feux de brouillard",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "avant"
+            },
+            {
+                "isAnswere": false,
+                "value": "arrière"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Il a dû neiger il y a peu de temps, mais il ne neige plus. Et la visibilité est plutôt bonne !",
+        "explanation": "Donc interdiction d'allumer les feux de brouillard, que ce soit devant ou derrière. Si je veux que ma voiture soit mieux visible, ce qui peut être une bonne chose surtout si sa couleur peut se confondre avec la neige, j'allume les feux de croisement. C'est autorisé, même par temps clair, et ils suffisent amplement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 6,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.6.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/140/medium/00046qA.jpg?1534254591",
+        "question": "Un manque d'huile moteur entraîne",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "une surchauffe du moteur"
+            },
+            {
+                "isAnswere": true,
+                "value": "une casse du moteur"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "L'huile assure la lubrification de tout le moteur. Accessoirement, sa circulation participe aussi à son refroidissement.",
+        "explanation": "Un manque d'huile peut rapidement avoir des conséquences graves et irréversibles : certaines pièces ne sont plus lubrifiées, s'échauffent, se grippent et cassent. La facture est généralement salée... si la réparation en vaut le coup !\n\nNiveau à surveiller régulièrement !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 7,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.7.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/143/medium/00047qA.jpg?1534254609",
+        "question": "A 90 km/h : je parcours environ",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "18 mètres par seconde"
+            },
+            {
+                "isAnswere": true,
+                "value": "25 mètres par seconde"
+            }
+        ],
+        "answere": "Pour calculer approximativement ma vitesse en mètres par seconde, il suffit de prendre le chiffre des dizaines de ma vitesse en km/h et de le multiplier par 3. Ici : je multiplie le \"9\" de \"90\" par 3, ce qui me donne 27. Ma vitesse est donc approximativement de 25 m/s, en arrondissant.",
+        "explanation": "Mais l'intervalle de sécurité minimum avec le véhicule qui me précède n'est pas d'une seconde, ce qui serait trop juste, mais de 2 secondes. Soit 25 m multipliés par 2, soit 50 mètres."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": "7",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.7.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/143/medium/00047qA.jpg?1534254609",
+        "question": "A 90 km/h : je laisse un intervalle minimum avec le véhicule devant moi d'environ",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "50 mètres"
+            },
+            {
+                "isAnswere": false,
+                "value": "100 mètres"
+            }
+        ],
+        "answere": "Pour calculer approximativement ma vitesse en mètres par seconde, il suffit de prendre le chiffre des dizaines de ma vitesse en km/h et de le multiplier par 3. Ici : je multiplie le \"9\" de \"90\" par 3, ce qui me donne 27. Ma vitesse est donc approximativement de 25 m/s, en arrondissant.",
+        "explanation": "Mais l'intervalle de sécurité minimum avec le véhicule qui me précède n'est pas d'une seconde, ce qui serait trop juste, mais de 2 secondes. Soit 25 m multipliés par 2, soit 50 mètres."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 8,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.8.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/146/medium/00048qA.jpg?1534254631",
+        "question": "Un coffre de toit a une influence",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "sur la consommation de carburant"
+            },
+            {
+                "isAnswere": false,
+                "value": "sur le temps de réaction"
+            },
+            {
+                "isAnswere": true,
+                "value": "sur le freinage"
+            },
+            {
+                "isAnswere": true,
+                "value": "sur la prise au vent"
+            }
+        ],
+        "answere": "Un coffre de toit perturbe l'écoulement de l'air autour de la voiture. Il augmente la prise au vent. Cela a forcément une répercussion sur la consommation de carburant, qui augmente, surtout si je circule à allure rapide (hors agglomération). Sur autoroute, la consommation peut augmenter de 10%.",
+        "explanation": "Mais ce n'est pas son seul effet néfaste : placé en hauteur, s'il est lourdement chargé, il risque de déséquilibrer la voiture lors des freinages... et surtout en virages !\n\nIl favorise aussi les écarts en cas de vent latéral.\n\nJe dois donc éviter de circuler avec un coffre de toit vide, qui ne sert à rien...et le charger de préférence avec des choses encombrantes, mais légères !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 9,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.9.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/149/medium/00049qA.jpg?1534254654",
+        "question": "Le croisement est impossible. La voiture rouge doit reculer",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Lorsque 2 véhicules se croisent en déclivité et que le croisement est impossible, c'est au véhicule descendant de manoeuvrer pour faciliter le passage.",
+        "explanation": "Si ce sont 2 véhicules de catégories différentes, c'est le plus manoeuvrable des 2 qui doit reculer. Il n'y a plus de montée ou de descente qui tienne.\n\nIci, même si le car est plus gros, il est plus manoeuvrable que la voiture attelée de la caravane.\n\nC'est donc au car de reculer et non à la voiture rouge."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 10,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.10.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/152/medium/00050qA.jpg?1534254674",
+        "question": "Qui est correctement attaché",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Le passager N°1"
+            },
+            {
+                "isAnswere": false,
+                "value": "Le passager N°2"
+            },
+            {
+                "isAnswere": false,
+                "value": "Le passager N°3"
+            },
+            {
+                "isAnswere": false,
+                "value": "Le passager N°4"
+            }
+        ],
+        "answere": "Le passager N°2 fait passer la ceinture de sécurité sous son bras. En cas d'accident, elle sera moins efficace et il risque des blessures inutiles. Il n'est donc pas correctement attaché.",
+        "explanation": "Le passager N°3 a bouclé la ceinture correctement. Mais il est trop petit et la ceinture risque de le blesser au niveau du cou. Il devrait être installé sur un rehausseur.\n\nLe passager N°4 a sa ceinture vrillée. Cas malheureusement fréquent. En cas d'accident, là encore, la ceinture risque de le blesser au lieu de le protéger efficacement : la zone la plus étroite ainsi formée engendrera une pression plus forte sur le corps.\n\nLe seul qui est bien installé, c'est le passager N°1 : la ceinture le retient efficacement sans risquer de le blesser : posée bien à plat, bien tendue, sans risque de blessures au cou."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 11,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.11.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/155/medium/00051qA.jpg?1534254696",
+        "question": "Les trajets faits quotidiennement entraînent généralement",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "une baisse de la concentration"
+            },
+            {
+                "isAnswere": true,
+                "value": "une baisse de la concentration"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "On pourrait penser que sur un trajet que l'on emprunte régulièrement, le risque d'accident est moins élevé. Pourtant, c'est le contraire.",
+        "explanation": "En effet, lorsque l'on croit bien connaître les endroits dangereux, cela procure un sentiment de sécurité, et l'attention se relâche.\n\nEn conséquence, on circule plus vite là où l'on pense qu'il n'y a pas, ou peu de dangers. Ainsi, en cas d'imprévu, la marge de manoeuvre est réduite, le risque d'accident augmente. Et si un accident survient, il est aussi plus violent. Donc plus grave."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 12,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.12.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/158/medium/00052qA.jpg?1534254714",
+        "question": "Le seul facteur que je peux contrôler dans un virage, c'est",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "le rayon du virage"
+            },
+            {
+                "isAnswere": false,
+                "value": "l'adhérence"
+            },
+            {
+                "isAnswere": true,
+                "value": "la vitesse"
+            },
+            {
+                "isAnswere": false,
+                "value": "le poids"
+            }
+        ],
+        "answere": "Ces 4 paramètres ont une influence sur la tenue de route.",
+        "explanation": "Mais le seul facteur que je peux faire varier dans un virage, c'est la vitesse.\n\nLe poids dépend du véhicule et de son chargement, et je ne peux rien y faire en arrivant dans le virage, pas plus que je ne peux changer quoi que ce soit à son rayon (sa courbure) ou à l'adhérence."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 13,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.13.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/161/medium/00053qA.jpg?1534254731",
+        "question": "Cette étiquette me permet de connaître",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "la pression de gonflage d'un pneu"
+            },
+            {
+                "isAnswere": true,
+                "value": "le bruit émis par un pneu"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Cette étiquette, obligatoire pour les pneus neufs, me permet de connaître les performances d'un pneu, afin de le comparer à d'autres :",
+        "explanation": "- son indice de consommation, à ne pas négliger ; en effet, certains pneus entraînent une surconsommation de carburant importante,\n\n- son adhérence sur sol humide ; très importante puisque les écarts observés d'un pneu à l'autre lors de freinages peuvent varier de plusieurs dizaines de mètres selon les modèles,\n\n- le bruit qu'il émet, à prendre en compte pour le confort des occupants mais aussi pour le bien-être des riverains ; le bruit des pneus peut être plus fort que le bruit du moteur !\n\nEn revanche, cette étiquette ne donne aucune indication concernant la pression de gonflage. Cette valeur dépend du véhicule sur lequel il sera monté."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 14,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.14.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/164/medium/00054qA.jpg?1534254748",
+        "question": "Une fois ce camion dépassé, je devrai rester dans cette voie",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "Je suis en cours de dépassement.",
+        "explanation": "Généralement, une fois le véhicule dépassé, je dois revenir dans la voie la plus à droite.\n\nMais ici, cette voie est délimitée par un marquage large. Quelle est sa signification ?\n\nIl délimite une voie réservée à certains usagers. Sur ce type de route, il s'agit sans doute d'une voie réservée aux véhicules lents ; c'est-à-dire ceux dont la vitesse ne dépasse pas 60 km/h.\n\nJe devrai donc rester dans la voie où je me trouve actuellement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 15,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.15.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/167/medium/00055qA.jpg?1534254765",
+        "question": "En cas de contrôle, le certificat d'assurance, collé sur le pare-brise, me dispense de présenter l'attestation d'assurance",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Le certificat d'assurance, la petite vignette verte collée en bas à droite du pare-brise, ne suffit pas à lui seul en cas de contrôle.",
+        "explanation": "Si je me fais arrêter, je dois être en mesure de présenter immédiatement l'attestation d'assurance, où figurent d'autres renseignements (entre autres, le nom de l'assuré).\n\nSi je ne peux pas la présenter, je risque une amende."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 16,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.16.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/170/medium/00056qA.jpg?1534254783",
+        "question": "Les principales fonctions du dispositif d'échappement sont",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "De réduire le bruit du moteur"
+            },
+            {
+                "isAnswere": true,
+                "value": "De limiter la pollution atmosphérique"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Sur certaines voitures, le pot d'échappement est presque considéré comme un objet d'art tant il est mis en valeur.",
+        "explanation": "Ce serait oublier ses 2 fonctions essentielles : réduire la pollution (c'est le rôle du catalyseur) et réduire le bruit du moteur. Sur le certificat d'immatriculation, le niveau de bruit du véhicule est noté. Il est donc facile de le contrôler pour les forces de l'ordre. Attention en cas de changement de pot, même soi-disant \"homologué\" !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 17,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.17.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/173/medium/00057qA.jpg?1534254799",
+        "question": "En 1 heure, l'organisme élimine environ",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "0,05 g d'alcool par litre de sang"
+            },
+            {
+                "isAnswere": true,
+                "value": "0,15 g d'alcool par litre de sang"
+            },
+            {
+                "isAnswere": false,
+                "value": "0,25 g d'alcool par litre de sang"
+            },
+            {
+                "isAnswere": false,
+                "value": "0,50 g d'alcool par litre de sang"
+            }
+        ],
+        "answere": "Il faut du temps à l'organisme pour éliminer l'alcool que l'on a absorbé. En effet, le corps n'est capable d'éliminer que 0,15 g d'alcool en 1 heure. Soit environ 2 heures par verre (0,30 g d'alcool par litre de sang).",
+        "explanation": "C'est essentiellement le foie qui se charge de cette élimination, et il n'y a aucune solution efficace pour l'accélérer."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 18,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.18.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/176/medium/00058qA.jpg?1534254816",
+        "question": "Je poursuis le dépassement",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "La flèche située au milieu de la voie où je circule me concerne. Il s'agit certainement de la première puisque aucune autre n'est visible dans le rétroviseur.",
+        "explanation": "Cependant, je ne peux pas poursuivre ce dépassement, même si cela pourrait être tentant. En effet, où vais-je me rabattre ? Entre les voitures ? Impossible, les intervalles de sécurité, déjà trop justes, ne seraient plus du tout respectés. Et je n'aurai pas le temps de dépasser ces 3 voitures en une seule fois.\n\nJe me rabats immédiatement."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 19,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "2.19.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/497/large-mp4/00162qA.mp4?1534256790",
+        "question": "En agglomération, pour croiser ou dépasser des piétons, il est préférable de laisser un intervalle de",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "moins d'un mètre"
+            },
+            {
+                "isAnswere": false,
+                "value": "un mètre, pas plus"
+            },
+            {
+                "isAnswere": true,
+                "value": "plus d'un mètre"
+            }
+        ],
+        "answere": "Pourquoi y a-t-il une distance latérale minimum à laisser lorsque l'on croise des usagers fragiles (piétons, \"deux-roues\") ?",
+        "explanation": "D'une part, parce qu'ils sont fragiles... et que le moindre accrochage risque d'être grave. Mais aussi parce qu'ils sont plus enclins à faire un écart ou à perdre l'équilibre. C'est ce qu'on appelle leur ZONE D'INCERTITUDE.\n\nC'est pourquoi, lorsque la situation le permet, et même si la réglementation ne m'impose qu'un mètre minimum en agglomération, je laisse plus que cet intervalle : pour avoir une marge en cas d'imprévu."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 20,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.20.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/panoramic_images/attachments/000/000/182/medium/00060qA.jpg?1534254847",
+        "question": "Je me suis trompé de direction. Je retourne dans la voie de droite",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Je suis dans une voie qui tourne à gauche.",
+        "explanation": "Si je me suis trompé de direction, hors de question de revenir dans la voie de droite. Dans mon rétroviseur droit, je peux voir qu'une voiture s'apprête à me dépasser par la droite (c'est autorisé dans ce cas).\n\nPour ne pas prendre de risques, je tourne à gauche, et je verrai pour faire demi-tour un peu plus loin. A un rond-point par exemple, l'endroit le plus sûr, où à défaut, dans une intersection ou dans une rue large et sans circulation."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 21,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.21.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/185/medium/00061qA.jpg?1534254862",
+        "question": "L'appui-tête est essentiellement un élément",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "De confort"
+            },
+            {
+                "isAnswere": true,
+                "value": "De sécurité"
+            }
+        ],
+        "answere": "A part si l'on fait un petit somme dans la voiture (donc à l'arrêt !), la tête ne doit pas être en contact avec l'appui-tête. On ne peut donc pas dire qu'il s'agit d'un accessoire de confort...",
+        "explanation": "Mais alors à quoi sert-il ?\n\nC'est un accessoire de sécurité. Il évite, lors d'un choc arrière, que la tête ne parte violemment en arrière, au risque de se briser la nuque.\n\nIl sert aussi en cas de choc avant : le corps est alors projeté vers l'avant, puis revient brutalement en place. La tête part alors en arrière s'il n'y a pas l'appui-tête pour la retenir. C'est ce qu'on appelle le \"coup du lapin\", et il peut être mortel.\n\nDans mon installation au poste de conduite, je dois donc m'assurer qu'il est bien réglé : ni trop haut (il ne doit pas dépasser le haut de mon crâne), ni trop bas (il ne doit pas m'arriver au niveau de la nuque)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": "21",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.21.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/185/medium/00061qA.jpg?1534254862",
+        "question": "Je vérifie que l'appui-tête est bien réglé avant de partir",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "A part si l'on fait un petit somme dans la voiture (donc à l'arrêt !), la tête ne doit pas être en contact avec l'appui-tête. On ne peut donc pas dire qu'il s'agit d'un accessoire de confort...",
+        "explanation": "Mais alors à quoi sert-il ?\n\nC'est un accessoire de sécurité. Il évite, lors d'un choc arrière, que la tête ne parte violemment en arrière, au risque de se briser la nuque.\n\nIl sert aussi en cas de choc avant : le corps est alors projeté vers l'avant, puis revient brutalement en place. La tête part alors en arrière s'il n'y a pas l'appui-tête pour la retenir. C'est ce qu'on appelle le \"coup du lapin\", et il peut être mortel.\n\nDans mon installation au poste de conduite, je dois donc m'assurer qu'il est bien réglé : ni trop haut (il ne doit pas dépasser le haut de mon crâne), ni trop bas (il ne doit pas m'arriver au niveau de la nuque)."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 22,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.22.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/188/medium/00062qA.jpg?1534254879",
+        "question": "En période probatoire, l'alcoolémie est sanctionnée à partir de",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "0,10 mg d'alcool par litre d'air expiré"
+            },
+            {
+                "isAnswere": false,
+                "value": "0,15 mg d'alcool par litre d'air expiré"
+            },
+            {
+                "isAnswere": false,
+                "value": "0,20 mg d'alcool par litre d'air expiré"
+            },
+            {
+                "isAnswere": false,
+                "value": "0,50 mg d'alcool par litre d'air expiré"
+            }
+        ],
+        "answere": "Le taux maximal d'alcool dans le sang ne doit pas atteindre 0,50 g par litre de sang. Ce qui correspond à 0,25 mg d'alcool par litre d'air expiré (mesuré avec un éthylotest).",
+        "explanation": "Pour les conducteurs en période probatoire, le seuil fixé est plus bas : 0,20 g d'alcool par litre de sang. Ce qui correspond à 0,10 mg d'alcool par litre d'air expiré."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 23,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.23.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/191/medium/00063qA.jpg?1534254893",
+        "question": "L'intervalle de sécurité avec la voiture devant moi est suffisant si je circule à",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "70 km/h"
+            },
+            {
+                "isAnswere": false,
+                "value": "30 km/h"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Quelle est la signification de ce marquage devant moi, en forme de V renversé ?",
+        "explanation": "Il s'agit d'un chevron. Un dispositif qui me permet de vérifier que l'intervalle avec le véhicule devant moi est suffisant. Quelle que soit ma vitesse.\n\nIci, je n'en vois qu'un. Or, je devrais en voir 2. Donc, que je circule à 70 km/h ou à 30 km/h, je suis trop près de la voiture qui me précède."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 24,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.24.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/194/medium/00064qA.jpg?1534254910",
+        "question": "Ces commandes permettent d'ajuster",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "le volume de la radio"
+            },
+            {
+                "isAnswere": true,
+                "value": "le régulateur et le limiteur de vitesse"
+            }
+        ],
+        "answere": "Toutes les commandes qui comportent un signe plus et un signe moins ne concernent pas l'autoradio ! (Contrôle du volume, ajustement des stations).",
+        "explanation": "Ici, cela concerne le régulateur de vitesse (mais aussi le limiteur puisque son symbole figure également).\n\nOn trouve généralement l'indication \"SET\" (= fixer en Anglais).\n\nS'il est activé, le + permet d'augmenter l'allure programmée, et le moins de la diminuer.\n\nPour le désactiver, une simple pression sur le frein suffit."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 25,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "2.25.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/517/large-mp4/00167qA.mp4?1534257418",
+        "question": "J'accélère",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "J'ai vu le feu passer au vert. Ce qui écarte normalement qu'il ne repasse au rouge immédiatement. L'occasion d'accélérer ?",
+        "explanation": "Surtout pas ! Il y a des intersections. Même si c'est normalement à moi de passer, je dois faire preuve de prudence et de bon sens. Une intersection est un endroit dangereux. Et si mon feu vient de passer au vert, cela signifie que l'autre feu vient tout juste de passer au rouge. Or, c'est au début d'un feu rouge que le risque qu'un autre usager le franchisse est le plus élevé.\n\nSi j'arrive trop vite, non seulement je ne pourrai pas éviter la collision... mais en plus ses conséquences seront graves."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 26,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.26.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/200/medium/00066qA.jpg?1534254954",
+        "question": "A partir de la première mise en circulation d'une voiture, le premier contrôle technique doit intervenir au plus tard",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Avant 2 ans"
+            },
+            {
+                "isAnswere": true,
+                "value": "Avant 4 ans"
+            }
+        ],
+        "answere": "Le 1er contrôle technique d'une voiture doit intervenir avant le 4ème anniversaire de sa mise en circulation.",
+        "explanation": "Ensuite, il doit être renouvelé tous les 2 ans, quelle que soit la distance parcourue.\n\nAttention : pour vendre un véhicule de plus de 4 ans, le contrôle technique doit avoir moins de 6 mois."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": "26",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.26.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/200/medium/00066qA.jpg?1534254954",
+        "question": "Il doit ensuite être renouvelé",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Tous les ans"
+            },
+            {
+                "isAnswere": true,
+                "value": "Tous les 2 ans"
+            }
+        ],
+        "answere": "Le 1er contrôle technique d'une voiture doit intervenir avant le 4ème anniversaire de sa mise en circulation.",
+        "explanation": "Ensuite, il doit être renouvelé tous les 2 ans, quelle que soit la distance parcourue.\n\nAttention : pour vendre un véhicule de plus de 4 ans, le contrôle technique doit avoir moins de 6 mois."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 27,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.27.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/203/medium/00067qA.jpg?1534254967",
+        "question": "Ce panneau peut être mis en place à proximité",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "d'une école"
+            },
+            {
+                "isAnswere": true,
+                "value": "d'un centre de loisirs"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Ce panneau n'annonce pas un passage pour piétons, puisqu'il existe un panneau pour cela, mais un endroit fréquenté par des enfants.",
+        "explanation": "Il peut s'agir d'une école bien sûr, mais aussi d'un centre de loisirs ou sportif, d'un arrêt de car scolaire, ou encore d'une aire de jeux.\n\nJe risque donc de rencontrer des enfants, quel que soit le jour de la semaine, y compris tôt le matin ou assez tard, alors qu'il fait déjà nuit."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 28,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.28.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/206/medium/00068qA.jpg?1534254980",
+        "question": "Si la circulation alternée est décrétée pour cause de pollution, ce véhicule catalysé peut circuler les jours",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "pairs"
+            },
+            {
+                "isAnswere": true,
+                "value": "impairs"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Afin de limiter la pollution déjà existante, Il arrive que la circulation alternée soit décrétée.",
+        "explanation": "Ma voiture peut être concernée : si elle ne fonctionne qu'à l'essence ou qu'au gazole et qu'elle est munie d'un pot catalytique ; sans ce dispositif, j'ai tout simplement interdiction de circuler pendant toute la période de restriction.\n\nJe dois me référer aux numéros de la plaque d'immatriculation. Si le dernier chiffre est pair (ou le dernier chiffre du bloc de gauche pour les anciennes plaques), je ne peux circuler que les jours pairs (le 2, 4, 6... 18... 30 du mois).\n\nIci, le dernier chiffre de ma plaque est impair (le 1), je suis donc autorisé à circuler les jours impairs uniquement.\n\nLes autres jours, je devrai utiliser un véhicule autorisé, ou mieux : marcher, prendre mon vélo, utiliser les transports en commun... ou opter pour le covoiturage."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 29,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.29.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/209/medium/00069qA.jpg?1534254999",
+        "question": "Sur l'autoroute, les 2 principales causes des collisions en chaînes sont:",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "La vitesse"
+            },
+            {
+                "isAnswere": true,
+                "value": "Le non-respect des intervalles de sécurité"
+            },
+            {
+                "isAnswere": false,
+                "value": "Le brouillard"
+            }
+        ],
+        "answere": "On entend parfois ou on peut lire dans la presse que le brouillard a provoqué un carambolage... Comme s'il s'agissait d'une fatalité !",
+        "explanation": "Le brouillard, il se voit. En effet, il augmente le risque d'accident... Mais il existe des parades. A commencer par réduire sa vitesse et augmenter les intervalles de sécurité.\n\nLa vitesse et le non-respect des intervalles de sécurité sont les 2 principales causes de collisions en chaîne sur l'autoroute, et pas seulement par temps de brouillard."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 30,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.30.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/212/medium/00070qA.jpg?1534255016",
+        "question": "La signalisation autorise le dépassement",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": false,
+                "value": "Non"
+            }
+        ],
+        "answere": "La signalisation me permet effectivement de dépasser.",
+        "explanation": "La flèche de rabattement ne me concerne pas vu son orientation, et la ligne de dissuasion est liée à cette flèche. Elles annoncent une ligne continue aux usagers circulant dans l'autre sens.\n\nMais est-ce le moment de dépasser ? Non ! La visibilité n'est pas bonne. Je risque d'être surpris par un usager arrivant en face, surtout si celui-ci est mal éclairé. Comme celui qui me suit par exemple..."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": "30",
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.30.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/212/medium/00070qA.jpg?1534255016",
+        "question": "Je dépasse",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "La signalisation me permet effectivement de dépasser.",
+        "explanation": "La flèche de rabattement ne me concerne pas vu son orientation, et la ligne de dissuasion est liée à cette flèche. Elles annoncent une ligne continue aux usagers circulant dans l'autre sens.\n\nMais est-ce le moment de dépasser ? Non ! La visibilité n'est pas bonne. Je risque d'être surpris par un usager arrivant en face, surtout si celui-ci est mal éclairé. Comme celui qui me suit par exemple..."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 31,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.31.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/215/medium/00071qA.jpg?1534255032",
+        "question": "Avant de quitter mon véhicule, je vérifie",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "le bon serrage du frein de parking"
+            },
+            {
+                "isAnswere": true,
+                "value": "qu'aucun objet convoité n'est visible"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Il y a quelques précautions à prendre systématiquement avant de quitter une voiture.",
+        "explanation": "D'une part, s'assurer que le frein de parking (le frein à main, aussi appelé frein de parcage) est correctement serré. Même s'il s'agit d'une voiture automatique et que le sélecteur est sur P.\n\nEnsuite, vérifier que toutes les vitres sont remontées totalement.\n\nVérifier aussi qu'aucun objet convoité n'est visible : portefeuille, sacoche d'ordinateur, GPS (y compris sa ventouse) ou téléphone.\n\nPuis, après être descendu, je m'assure que les portes sont bien verrouillées."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 32,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.32.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/218/medium/00072qA.jpg?1534255048",
+        "question": "Pour accroître la longévité des pneus",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "je les surgonfle légèrement"
+            },
+            {
+                "isAnswere": false,
+                "value": "je les sous-gonfle légèrement"
+            },
+            {
+                "isAnswere": true,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Pour chaque modèle de voiture, le constructeur a prévu une valeur exacte de gonflage des pneus selon leurs dimensions.",
+        "explanation": "Cela permet que l'adhérence soit la meilleure possible, mais aussi que les pneus ne s'usent pas trop vite.\n\nLe sous-gonflage comme le surgonflage nuisent à la tenue de route, et entraînent une usure irrégulière et rapide des pneus\n\nEt comme les pneus ne sont pas totalement étanches, je vérifie au moins 1 fois par mois que leur pression est toujours conforme à ce que prévoit le constructeur de la voiture."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 33,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.33.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/221/medium/00073qA.jpg?1534255063",
+        "question": "Un chargement qui dépasse l'arrière de la voiture doit faire l'objet d'une signalisation particulière s'il déborde de",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Moins d'un mètre"
+            },
+            {
+                "isAnswere": true,
+                "value": "Plus d'un mètre"
+            }
+        ],
+        "answere": "Le chargement d'un véhicule peut dépasser son aplomb arrière. Alors que c'est interdit à l'avant",
+        "explanation": "Cependant, il y a une règle. Jusqu'à 1 mètre, il n'est pas obligatoire de le signaler (même si cela peut être utile).\n\nAu-delà de 1 mètre, jusqu'à 3 mètres (le maximum autorisé), une signalisation devient obligatoire. Attention : pas un simple bout de tissu comme on le voit souvent. Il faut un dispositif homologué, réfléchissant, complété d'une lumière rouge pour circuler de nuit."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 34,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.34.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/224/medium/00074qA.jpg?1534255078",
+        "question": "Je tourne à gauche",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "je reste dans cette voie"
+            },
+            {
+                "isAnswere": false,
+                "value": "je me place dans la voie de gauche"
+            }
+        ],
+        "answere": "La rue dans laquelle je circule est à sens unique.",
+        "explanation": "Si je tourne à gauche, où dois-je me placer ?\n\nIl y a 2 voies qui permettent de tourner à gauche. Dans ce cas, je dois me placer dans celle qui est la plus à droite. Je peux utiliser l'autre voie uniquement dans 2 cas : pour dépasser ou si la voie de droite est encombrée. Mais je ne suis dans aucun de ces 2 cas ici.\n\nDonc je reste dans cette voie pour aller à gauche."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 35,
+        "containsMedia": true,
+        "mediaType": "video",
+        "mediaName": "2.35.mp4",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/videos/attachments/000/000/521/large-mp4/00168qA.mp4?1534257568",
+        "question": "Tout danger de déraper est écarté",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Un usager, sans doute très pressé, a décidé de me dépasser. Peut-être considère-t-il que la route n'est pas glissante...",
+        "explanation": "Que dois-je en penser ?\n\nC'est vrai que, immédiatement, la route ne présente pas de signe de plaques de neige et qu'elle ne semble pas gelée... Elle est mouillée, il reste un peu de neige fondue, c'est vrai, mais pas glissante comme si elle était verglacée.\n\nSauf que... je ne suis pas à l'abri que la situation change en quelques mètres seulement. Le sol est autour de 0 degré, peut-être moins... et je risque à tout moment de me faire surprendre par une plaque de verglas isolée. Mieux vaut ne pas suivre l'exemple de cet automobiliste imprudent !"
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 36,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.36.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/230/medium/00076qA.jpg?1534255113",
+        "question": "Les usagers \"fragiles\", tels que les piétons ou les utilisateurs de deux-roues représentent environ",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "5% des tués"
+            },
+            {
+                "isAnswere": false,
+                "value": "15% des tués"
+            },
+            {
+                "isAnswere": false,
+                "value": "30% des tués"
+            },
+            {
+                "isAnswere": true,
+                "value": "40% des tués"
+            }
+        ],
+        "answere": "Chaque année, les usagers \"fragiles\" (les piétons, les \"deux-roues\", motorisés ou non) paient un lourd tribut.",
+        "explanation": "L'absence de carrosserie pour les protéger en cas de choc, mais aussi parfois le manque de respect des règles élémentaires leur font courir d'énormes risques. Ainsi, ils représentent près de 40% des tués sur la route."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 37,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.37.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/233/medium/00077qA.jpg?1534255127",
+        "question": "Le système d'appel d'urgence (ECall)",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "alerte automatiquement les secours en cas d'accident grave"
+            },
+            {
+                "isAnswere": true,
+                "value": "permet de géolocaliser automatiquement l'accident"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Le système d'appel d'urgence, appelé aussi \"ECall\" permet de prévenir les secours depuis la voiture en cas d'urgence.",
+        "explanation": "Soit c'est un occupant de la voiture qui le déclenche, avec une commande dédiée, et les occupants peuvent alors être en liaison avec un opérateur. Cela permet par exemple de prévenir les secours si l'on est témoin d'un accident.\n\nSoit c'est la voiture seule qui transmet l'alerte en cas d'accident grave (détecté par le déclenchement des airbags). Elle transmet alors aussi les coordonnées GPS afin de géolocaliser l'accident."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 38,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.38.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/236/medium/00078qA.jpg?1534255144",
+        "question": "J'augmente l'intervalle de sécurité si je circule à",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "40 km/h"
+            },
+            {
+                "isAnswere": true,
+                "value": "20 km/h"
+            }
+        ],
+        "answere": "La route est très glissante.",
+        "explanation": "Aussi, quelle que soit la vitesse à laquelle je circule, j'augmente l'intervalle qui me sépare de la voiture devant moi. Cela me permettra d'envisager un freinage plus sereinement, mais surtout d'éviter cette voiture si celle-ci se mettait en travers de la route. Surtout que nous sommes dans une descente..."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 39,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.39.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/239/medium/00079qA.jpg?1534255156",
+        "question": "Je dois m'arrêter pour proposer de l'aide",
+        "optionList": [
+            {
+                "isAnswere": false,
+                "value": "Oui"
+            },
+            {
+                "isAnswere": true,
+                "value": "Non"
+            }
+        ],
+        "answere": "Un accident de la route vient de se produire, comme l'indique le panneau temporaire.",
+        "explanation": "Les secours sont en place, les victimes éventuelles sont donc entre de bonnes mains. Je ne m'arrête pas, mais je franchis la zone de l'accident à allure modérée, et surtout en restant très vigilant. Sans quitter la route des yeux."
+    },
+    {
+        "platforme": "envoituresimone.com",
+        "theme": "",
+        "series": 2,
+        "questionNumber": 40,
+        "containsMedia": true,
+        "mediaType": "image",
+        "mediaName": "2.40.jpeg",
+        "mediaSource": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/000/243/medium/00080qA.jpg?1534255178",
+        "question": "Un habitacle trop chaud",
+        "optionList": [
+            {
+                "isAnswere": true,
+                "value": "favorise l'endormissement"
+            },
+            {
+                "isAnswere": true,
+                "value": "favorise l'apparition de la fatigue"
+            },
+            {
+                "isAnswere": false,
+                "value": "Aucun"
+            }
+        ],
+        "answere": "Une chaleur excessive dans l'habitacle (au-delà de 27 degrés) rend le trajet pénible.",
+        "explanation": "En conséquence, la fatigue arrive plus vite, ce qui conduit à une somnolence (le temps de réaction augmente) voire à l'endormissement.\n\nC'est là que la climatisation devient un véritable accessoire de sécurité plus que de confort. En abaissant la température de quelques degrés, je suis plus vigilant et je réduis le risque d'être impliqué dans un accident."
+    }
+]
